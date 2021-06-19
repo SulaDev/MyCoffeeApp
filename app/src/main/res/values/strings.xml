@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Мое кафе</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="welcome">Добро пожаловать в кофейню</string>
+    <string name="coffee_shop">Кофейня</string>
+</resources>
