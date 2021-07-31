@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
             display(kolichestvo);
         }
     }
+    // komment
 
 
     private void display(int number) {
